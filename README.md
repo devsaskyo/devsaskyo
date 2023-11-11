@@ -2,7 +2,7 @@
 ## About me 🎯
 🔳 I really like **linux server administration** <br />
 🔳 I often code things in `Bash` (Mostly cgi scripts) <br />
-🔳 I like creating websites - 👀[Check out my website](https://www.tomasdada.com){:target="_blank"}👀 <br />
+🔳 I like creating websites - 👀[Check out my website](https://www.tomasdada.com)👀 <br />
 🔳 I am learning C# <br />
 
 ### Contact me 🔮
