@@ -6,7 +6,7 @@
 🔳 I am learning C# <br />
 
 ### Contact me 🔮
-If you want to contact me, you can either [email me](hacker@tomasdada.com), or [contact me through my website](https://tomasdada.com/contact).
+If you want to contact me, you can either [email me](mailto:hacker@tomasdada.com), or [contact me through my website](https://tomasdada.com/contact).
 
 ## Some things that I am currenly working on ⚙️
 ### MultApp 📱
