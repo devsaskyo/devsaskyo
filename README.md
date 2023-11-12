@@ -8,7 +8,7 @@
 ### Contact me 🔮
 If you want to contact me, you can either [email me](mailto:hacker@tomasdada.com), or [contact me through my website](https://tomasdada.com/contact).
 
-## Some things that I am currenly working on ⚙️
+<!--## Some things that I am currenly working on ⚙️
 ### MultApp 📱
 MultApp is a mobile app with lots of functionality! <br />
 I am making it using `.NET MAUI (C#)` and you can check it out [here](https://tomasdada.com/projects/MultApp). <br />
@@ -21,4 +21,4 @@ You can [learn more](https://tomasdada.com/projects/LoroCoin) or view the [sourc
 
 🔳 **You can find all of my projects at [https://tomasdada.com/projects](https://tomasdada.com/projects)**
 
-# ⛔️ You have reached the end ⛔️
+# ⛔️ You have reached the end ⛔️ WHY IS ALL THIS COMMENTED OUT? THE REPOSITORIES DO NOT EXIST YET AND I AM WORKING ON THE WEBSITE TOO...-->
