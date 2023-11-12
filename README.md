@@ -19,4 +19,6 @@ LoroCoin is a simple cryptocurrency that I am working on. <br />
 I am coding it in `C#` and creating a web app for the frontend. <br />
 You can [learn more](https://tomasdada.com/projects/LoroCoin) or view the [source code](https://github.com/dadatomas/LoroCoin). <br />
 
+🔳 **You can find all of my projects at [https://tomasdada.com/projects](https://tomasdada.com/projects)**
+
 # ⛔️ You have reached the end ⛔️
