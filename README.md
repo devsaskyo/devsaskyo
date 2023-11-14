@@ -11,7 +11,7 @@ If you want to contact me, you can either [email me](mailto:hacker@tomasdada.com
 ## Some things that I am currenly working on ⚙️
 ### MultApp 📱
 MultApp is a mobile app with lots of functionality! <br />
-I am making it using `.NET MAUI (C#)` and you can check it out [here](https://tomasdada.com/projects/MultApp). <br />
+I am making it using [.NET MAUI](https://learn.microsoft.com/en-us/dotnet/maui/what-is-maui?view=net-maui-8.0) `(C#)` and you can check it out [here](https://tomasdada.com/projects/MultApp). <br />
 You can find the source code [here](https://github.com/dadatomas/MultApp). <br />
 
 ### LoroCoin 💰
