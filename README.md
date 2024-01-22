@@ -19,6 +19,6 @@ LoroCoin is a simple cryptocurrency that I am working on. <br />
 I am coding it in `C#` and creating a [.NET MAUI](https://learn.microsoft.com/en-us/dotnet/maui/what-is-maui?view=net-maui-8.0) app for the frontend. <br />
 You can [learn more](https://tomasdada.com/projects/LoroCoin) or view the [source code](https://github.com/dadatomas/LoroCoin). <br />
 
-🔳 **You can find all of my projects at [https://tomasdada.com/projects](https://tomasdada.com/projects)**-->
+🔳 **You can find all of my projects at [https://tomasdada.com/projects](https://tomasdada.com/projects)**
 
-<!--# ⛔️ You have reached the end ⛔️-->
+# ⛔️ You have reached the end ⛔️-->
